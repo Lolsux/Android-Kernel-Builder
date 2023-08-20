@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Chopin_KernelSU_Proton",
-      "repo": "https://github.com/AOSP-13-Mediatek/kernel_xiaomi_chopin",
-      "branch": "r",
-      "device": "chopin",
-      "defconfig": "chopin_user_defconfig"
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme",
+      "branch": "thirteen",
+      "device": "thyme",
+      "defconfig": "thyme_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
